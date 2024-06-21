@@ -1,25 +1,25 @@
 # CatCoreGenerators
 
-# Developer API:
+## Developer API:
 - None, core only.
 
-# Commands:
+## Commands:
 - /gens
  
 ## Sample Sub Commands & Arguments:
    - /gens <Auto|Ore> <Coal|Iron|Diamond|Emerald> <Amount>
 
- # Generator types:
+ ## Generator types:
    - Coal
    - Iron
    - Diamond
    - Emerald
 
-  # Supported Types
+  ## Supported Types
    - Ore
    - Auto
 
-  # Supported Versions:
+  ## Supported Versions:
    - Any Pocketmine 5.0
    - Any Pocketmine 4.0 (Not Tested, Not Recommended)
 
