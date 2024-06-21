@@ -1,0 +1,11 @@
+---
+name: CatCoreGenerators
+version: 0.0.1
+main: ILoveFlies\CatCoreGenerators\Main
+api: [4.0.0, 5.0.0]
+src-namespace-prefix: ILoveFlies\CatCoreGenerators
+
+permissions:
+  ccg.command.gens:
+    default: op
+...
