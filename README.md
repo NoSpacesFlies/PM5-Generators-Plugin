@@ -3,7 +3,7 @@
 # Developer API:
 - None, core only.
 
-#Commands:
+# Commands:
 - /gens
  
 ## Sample Sub Commands & Arguments:
