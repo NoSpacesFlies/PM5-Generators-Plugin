@@ -1,4 +1,5 @@
 # CatCoreGenerators
+- dont dm me for issues, make issue instead.
 
 ## Developer API:
 - None, core only.
