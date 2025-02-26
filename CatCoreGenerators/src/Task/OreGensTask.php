@@ -1,6 +1,6 @@
 <?php
 
-namespace ILoveFlies\ILoveFlies\CatCoreGenerators\Task;
+namespace ILoveFlies\CatCoreGenerators\Task;
 
 use ILoveFlies\CatCoreGenerators\CatCoreAPIs\FileManager;
 use pocketmine\scheduler\Task;
