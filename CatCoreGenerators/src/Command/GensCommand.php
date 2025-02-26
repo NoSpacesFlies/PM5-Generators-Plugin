@@ -22,7 +22,7 @@ class GensCommand extends Command {
 
     public function __construct() {
         parent::__construct("gens", "Get generators", "§cUsage: /gens (ore|auto) (type) (amount)");
-        $this->setPermission("core.command.gens");
+        $this->setPermission("ccg.command.gens");
     }
 
     public function execute(CommandSender $sender, string $commandLabel, array $args): void {
