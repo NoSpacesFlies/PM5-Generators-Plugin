@@ -15,8 +15,10 @@ class Main extends PluginBase{
     public function onEnable(): void
     {
         // I forgot dis 8 months ago
-        mkdir($this->getDataFolder() . "/Configs");
-        //and finally
+        //I Forgot the @ it messeeeed everything >:)
+        @mkdir($this->getDataFolder() . "Configs");
+   		@mkdir($this->getDataFolder() . "Configs/GeneratorItems");
+        //finalli?
         parent::onEnable();
         $this->getServer()->getPluginManager()->registerEvents(new GeneratorEvents(), $this);
         $this->getServer()->getCommandMap()->register("gens", new GensCommand());
